@@ -17,7 +17,7 @@
           <mxGeometry x="-140" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qaedK1OBrXd_NtfnD_xV-3" value="почистить зубы" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-          <mxGeometry x="180" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qaedK1OBrXd_NtfnD_xV-21" value="&lt;div&gt;контрастный душ&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
@@ -67,14 +67,41 @@
         <mxCell id="qaedK1OBrXd_NtfnD_xV-12" value="анки повтори" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="330" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qaedK1OBrXd_NtfnD_xV-13" value="&lt;div&gt;записать дела в блокнот с вечера&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="820" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="qaedK1OBrXd_NtfnD_xV-13" value="&lt;div&gt;записать дела в блокнот с вечера&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="710" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aKsCuJh0maRcEQ2Xi9_0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aKsCuJh0maRcEQ2Xi9_0-1" target="qaedK1OBrXd_NtfnD_xV-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aKsCuJh0maRcEQ2Xi9_0-1" value="oil pulling" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="180" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aKsCuJh0maRcEQ2Xi9_0-7" value="&lt;div&gt;что можно делать вечером&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#00FF08;strokeColor=#666666;fontColor=#000000;gradientColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="710" y="40" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aKsCuJh0maRcEQ2Xi9_0-8" value="почистить зубы" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="860" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aKsCuJh0maRcEQ2Xi9_0-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="aKsCuJh0maRcEQ2Xi9_0-10" target="aKsCuJh0maRcEQ2Xi9_0-8" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aKsCuJh0maRcEQ2Xi9_0-10" value="oil pulling" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="860" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aKsCuJh0maRcEQ2Xi9_0-11" value="&lt;div&gt;что можно делать&amp;nbsp; когда работаешь в такси&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#00FF08;strokeColor=#666666;fontColor=#000000;gradientColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="40" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aKsCuJh0maRcEQ2Xi9_0-12" value="читать скоровогорки с закрытым ртом" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="120" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aKsCuJh0maRcEQ2Xi9_0-13" value="размять мышцы горла, пальцем в кадык" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aKsCuJh0maRcEQ2Xi9_0-14" value="делать упражнение кегеля" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="200" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aKsCuJh0maRcEQ2Xi9_0-15" value="как лошадь расслабить губы" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
