@@ -70,9 +70,6 @@
         <mxCell id="qaedK1OBrXd_NtfnD_xV-13" value="&lt;div&gt;записать дела в блокнот с вечера&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="820" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qaedK1OBrXd_NtfnD_xV-20" value="&lt;div&gt;потренить с гирей&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="630" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="aKsCuJh0maRcEQ2Xi9_0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aKsCuJh0maRcEQ2Xi9_0-1" target="qaedK1OBrXd_NtfnD_xV-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
